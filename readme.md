@@ -1,5 +1,3 @@
-# :computer: Obsidian Drops of Gold Theme
-
 <h1 align="center">Obsidian Drops of Gold Theme</h1>
 <h5 align="center">The Drops of Gold scheme for Obsidian is based on my personal WordPress theme over at <a href="https://moenspost.nl" traget="_blank">MoensPost</a> by <a href="https://github.com/moensthijs">Thijs Moens</a>.</h5>
 
@@ -12,13 +10,13 @@
 - [Changelog](#changelog)
 - [License](#license)
 
-## Screenshots
+## 📷 Screenshot
 
 <p align="center">
   <img src="images/preview.png" alt="Preview">
 </p>
 
-## Installation
+## :computer: Installation
 
 1. Download the css file.
 2. Open in Obsidian the settings > appearance > Themes > open themes folder
@@ -28,7 +26,7 @@
    <img src="images/select-theme.png" alt="Select the Drops of Gold theme">
 5. There you are
 
-## Bugs
+## 🐛 Bugs
 
 See the [open issues](https://github.com/moensthijs/drops-of-gold-theme-obsidian/issues) for a list of bugs and known issues.
 
