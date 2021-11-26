@@ -1,15 +1,6 @@
 <h1 align="center">Obsidian Drops of Gold Theme</h1>
 <h5 align="center">The Drops of Gold scheme for Obsidian is based on my personal WordPress theme over at <a href="https://moenspost.nl" traget="_blank">MoensPost</a> by <a href="https://github.com/moensthijs">Thijs Moens</a>.</h5>
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Bugs](#bugs)
-- [Changelog](#changelog)
-- [License](#license)
-
 ## 📷 Screenshot
 
 <p align="center">
