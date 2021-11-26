@@ -1,3 +1,5 @@
 # These are supported funding model platforms
 
-github: [moensthijs] 
+# github: [moensthijs]
+custom: ['https://www.paypal.com/donate/?hosted_button_id=DPR4V9NRL7FGS']
+  
