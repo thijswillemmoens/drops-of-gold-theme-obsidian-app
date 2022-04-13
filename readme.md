@@ -1,5 +1,5 @@
 <h1 align="center">Obsidian Drops of Gold Theme</h1>
-<h5 align="center">The Drops of Gold scheme for Obsidian is based on my personal WordPress theme over at <a href="https://moenspost.nl" traget="_blank">MoensPost</a> by <a href="https://github.com/moensthijs">Thijs Moens</a>.</h5>
+<h5 align="center">The Drops of Gold scheme for Obsidian is based on my personal WordPress theme over at <a href="https://thijs.website" traget="_blank">thijs.website</a> by <a href="https://github.com/thijswillemmoens">Thijs Moens</a>.</h5>
 
 ## 📷 Screenshot
 
@@ -19,7 +19,7 @@
 
 ## 🐛 Bugs
 
-See the [open issues](https://github.com/moensthijs/drops-of-gold-theme-obsidian/issues) for a list of bugs and known issues.
+See the [open issues](https://github.com/thijswillemmoens/drops-of-gold-theme-obsidian/issues) for a list of bugs and known issues.
 
 ## Contributing
 
