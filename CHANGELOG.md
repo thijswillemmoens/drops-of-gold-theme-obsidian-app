@@ -1,9 +1,9 @@
-# Changelog
+# CHANGELOG
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+## Version 1.1
 
-## 1.0.0 (2021-11-26)
+**Doc**
 
-### Miscellaneous Chores
-
-- **release:** initial release
+-   Rewriten the readme page
+-   Added a sponsor link
+-   Added prettier
