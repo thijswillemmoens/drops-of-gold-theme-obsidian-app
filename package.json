@@ -1,4 +1,19 @@
 {
+	"name": "drops-of-gold-obsidian",
+	"displayName": "Drops of Gold for Obsidian",
+	"description": "Professional Obsidian color-scheme with hand-picked drops of gold.",
+	"version": "1.0.1",
+	"publisher": "Thijs Moens",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thijswmoens/drops-of-gold-obsidian"
+	},
+	"keywords": [
+		"Drops of Gold",
+		"Drops of Gold Obsidian",
+		"Drops of Gold Obsidian App",
+		"Obsidian"
+	],
 	"devDependencies": {
 		"prettier": "2.7.1"
 	}
